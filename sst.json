@@ -1,0 +1,5 @@
+{
+  "name": "nft-backend-sls",
+  "region": "ap-southeast-1",
+  "main": "stacks/index.ts"
+}

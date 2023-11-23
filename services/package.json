@@ -1,0 +1,17 @@
+{
+  "name": "@xfi/services",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {},
+  "dependencies": {
+    "aws-sdk": "^2.1274.0",
+    "ethers": "^5.7.2",
+    "lodash": "^4.17.21",
+    "mongoose": "^6.8.0",
+    "mongoose-paginate-v2": "^1.7.1"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.109",
+    "@types/mongoose": "^5.11.97"
+  }
+}
