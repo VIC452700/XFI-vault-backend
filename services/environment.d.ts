@@ -1,6 +1,11 @@
 declare global {
   namespace NodeJS {
     interface ProcessEnv {
+      MONGODB_URI: string;
+      ADMIN_PRIVATE_KEY: string;
+      DEFAULT_CHAINID: string;
+      REDIS_ENDPOINT: string;
+      REDIS_USER: string;
       REDIS_PASSWORD: string;
     }
   }
